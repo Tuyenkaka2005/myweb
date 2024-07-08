@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Profile của Chị Thủy</title>
+</head>
+<body>
+    <a href="https://www.facebook.com/profile.php?id=100062162027398&locale=vi_VN" target="_blank">
+        <img src="https://github.com/Tuyenkaka2005/myweb/blob/main/images/profile.jpg" alt="Chị Thủy" title="Chị Thủy" height="300" width="300">
+    </a>
+    
+</body>
+</html>
